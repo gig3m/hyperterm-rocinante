@@ -1,24 +1,25 @@
 {
-  "name": "hyperterm-resboned",
+  "name": "hyperterm-rocinante",
   "version": "0.0.1",
-  "description": "Hyperterm, but different colors",
+  "description": "A dark yet juicy theme for Hyperterm",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gig3m/hyperterm-resboned.git"
+    "url": "git+https://github.com/gig3m/hyperterm-rocinante.git"
   },
   "keywords": [
     "hyperterm",
     "theme",
-    "dark"
+    "dark",
+    "juicy"
   ],
   "author": "Kyle Arrington",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gig3m/hyperterm-resboned/issues"
+    "url": "https://github.com/gig3m/hyperterm-rocinante/issues"
   },
-  "homepage": "https://github.com/gig3m/hyperterm-resboned#readme"
+  "homepage": "https://github.com/gig3m/hyperterm-rocinante#readme"
 }
