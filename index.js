@@ -8,8 +8,8 @@ const yellow = '#FAC863';
 const blue = '#50B4DC';
 const magenta = '#B49CDA';
 const cyan = '#83AADA';
-const gray = '#3F414D';
-const brightBlack = '#282833';
+const gray = '#62758B';
+const brightBlack = '#8B8B8B';
 const brightWhite = foregroundColor;
 
 exports.decorateConfig = config => {
